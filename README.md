@@ -1,4 +1,4 @@
-- 🌈 I’m a CTO in [SharePoint Designs](https://www.sharepointdesigns.com)
+-  I’m a CTO in [SharePoint Designs](https://www.sharepointdesigns.com)
 - 👌 I'm specialized in SharePoint Online, Power Platform, MS Azure
 - 😜 I’m interested in lot of stuffs... (Kids to Open source...)
 - 🚀 I’m currently learning AI and Machine Learning
